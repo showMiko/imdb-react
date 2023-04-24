@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imdb-react/static/css/main.9688bdb6.css",
+    "main.js": "/imdb-react/static/js/main.bb331728.js",
+    "index.html": "/imdb-react/index.html",
+    "main.9688bdb6.css.map": "/imdb-react/static/css/main.9688bdb6.css.map",
+    "main.bb331728.js.map": "/imdb-react/static/js/main.bb331728.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9688bdb6.css",
+    "static/js/main.bb331728.js"
+  ]
+}
