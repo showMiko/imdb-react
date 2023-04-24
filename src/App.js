@@ -13,8 +13,8 @@ function App() {
         <Header />
         <Routes>
           <Route index element={<Home me/>}></Route>
-          <Route path='movie/:id' element={<Movie/>}></Route>
-          <Route path='movies/:type' element={<MovieList/>}></Route>
+          <Route path='imdb-react/movie/:id' element={<Movie/>}></Route>
+          <Route path='imdb-react/movies/:type' element={<MovieList/>}></Route>
           {/* <Route path='/*' element={<h1>Error Page</h1>}></Route> */}
           <Route path='/*' element={<Home me/>}></Route>
         </Routes>
